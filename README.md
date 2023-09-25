@@ -1,4 +1,8 @@
 # Equilibrium States In A Three-Agent Predator-Prey System
+
+<img src="figs/r10_config.jpg" width="500">
+
+
 This repo implements a predator-prey cellular automata. The code allows for studying different setups by varying parameters such as:
 - number of agents
 - grid size
@@ -16,5 +20,4 @@ introducing environmental structure (i.e. trees) was shown to affect the steady 
 the low-level prey was seen to increase its steady-state population by 2.6 times that without
 trees.
 
-![](figs/r10_config.png)
 ![](figs/running_avg_LOS.png)
