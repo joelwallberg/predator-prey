@@ -2,3 +2,4 @@
 A predator-prey cellular automata study
 
 ![](figs/r10_config.png)
+![](figs/running_avg_LOS.png)
