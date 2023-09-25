@@ -20,4 +20,4 @@ introducing environmental structure (i.e. trees) was shown to affect the steady 
 the low-level prey was seen to increase its steady-state population by 2.6 times that without
 trees.
 
-![](figs/running_avg_LOS.png)
+<img src="figs/running_avg_LOS.jpg" width="650">
